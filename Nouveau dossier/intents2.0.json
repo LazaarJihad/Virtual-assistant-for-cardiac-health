@@ -1,0 +1,119 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day"],
+        "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+        "context_set": ""
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+        "context_set": ""
+      },
+      {
+        "tag": "heart_attack_explanation",
+        "patterns": ["What is a heart attack?"],
+        "responses": ["A heart attack occurs when the blood flow to a part of the heart muscle becomes blocked."],
+        "context_set": ""
+      },
+      {
+        "tag": "heart_attack_symptoms",
+        "patterns": ["What are the symptoms of a heart attack?"],
+        "responses": ["Symptoms may include chest pain, shortness of breath, nausea, and cold sweats."],
+        "context_set": ""
+      },
+      {
+        "tag": "heart_attack_process",
+        "patterns": ["Explain what happens during a heart attack"],
+        "responses": ["During a heart attack, the blood supply to the heart muscle is blocked, leading to damage."],
+        "context_set": ""
+      },
+      {
+        "tag": "heart_attack_causes",
+        "patterns": ["What causes a heart attack?"],
+        "responses": ["Heart attacks can be caused by a buildup of plaque in the coronary arteries."],
+        "context_set": ""
+      },
+      {
+        "tag": "heart_attack_recognition",
+        "patterns": ["How can I recognize a heart attack?"],
+        "responses": ["Recognizing symptoms early and seeking medical help is crucial. Chest pain is a common warning sign."],
+        "context_set": ""
+      },
+      {
+        "tag": "heart_attack_symptoms_description",
+        "patterns": ["Can you describe heart attack symptoms?"],
+        "responses": ["Heart attack symptoms may include chest discomfort, shortness of breath, and discomfort in other areas of the upper body."],
+        "context_set": ""
+      },
+      {
+        "tag": "heart_condition_explanation",
+        "patterns": ["Explain * heart condition"],
+        "responses": ["I can provide information on various heart conditions. Please specify the heart condition you're interested in."],
+        "context_set": ""
+      },
+      {
+        "tag": "heart_surgery_process",
+        "patterns": ["What happens during * heart surgery?"],
+        "responses": ["Heart surgeries can involve procedures like bypass surgery, valve replacement, or angioplasty, depending on the specific condition."],
+        "context_set": ""
+      },
+      {
+        "tag": "heart_problems_risks",
+        "patterns": ["Explain the risks of * heart problems"],
+        "responses": ["The risks of heart problems can vary. Factors like age, lifestyle, and family history may contribute to risk."],
+        "context_set": ""
+      },
+      {
+        "tag": "heart_healthy_diet",
+        "patterns": ["Tell me about * heart-healthy diet"],
+        "responses": ["A heart-healthy diet includes fruits, vegetables, whole grains, lean proteins, and limits saturated and trans fats."],
+        "context_set": ""
+      },
+      {
+        "tag": "diet_for_heart_health",
+        "patterns": ["Can you recommend a diet for * heart health?"],
+        "responses": ["For heart health, consider a diet rich in fruits, vegetables, whole grains, and lean proteins."],
+        "context_set": ""
+      },
+      {
+        "tag": "cholesterol_levels",
+        "patterns": ["What should I know about * cholesterol levels?"],
+        "responses": ["Understanding cholesterol levels is important for heart health. There are good (HDL) and bad (LDL) cholesterol."],
+        "context_set": ""
+      },
+      {
+        "tag": "lifestyle_choices",
+        "patterns": ["How do lifestyle choices affect heart health?"],
+        "responses": ["Lifestyle choices like diet, exercise, and not smoking play a crucial role in maintaining a healthy heart."],
+        "context_set": ""
+      },
+      {
+        "tag": "heart_friendly_exercises",
+        "patterns": ["Tell me about heart-friendly exercises"],
+        "responses": ["Heart-friendly exercises include aerobic activities like walking, jogging, and swimming. Consult with a healthcare professional before starting a new exercise routine."],
+        "context_set": ""
+      },
+      {
+        "tag": "natural_ways_to_improve_heart_health",
+        "patterns": ["Are there natural ways to improve heart health?"],
+        "responses": ["Yes, adopting a healthy lifestyle, including a balanced diet and regular exercise, can naturally improve heart health."],
+        "context_set": ""
+      },
+      {
+        "tag": "genetics_in_heart_conditions",
+        "patterns": ["Explain the role of genetics in heart conditions"],
+        "responses": ["Genetics can influence the risk of heart conditions. Understanding family history is important for assessing risk."],
+        "context_set": ""
+      },
+      {
+        "tag": "mediterranean_diet",
+        "patterns": ["What are the benefits of a Mediterranean diet for heart health?"],
+        "responses": ["The Mediterranean diet, rich in fruits, vegetables, and olive oil, is associated with heart health benefits."],
+        "context_set": ""
+      }
+    ]
+  }
+  
